@@ -3,7 +3,7 @@
 
 **Use the INS to open the menu**
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20&color=5865F2&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=Join my discord%20&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)
 
 Features
 
