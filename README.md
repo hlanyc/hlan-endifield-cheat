@@ -6,6 +6,8 @@
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20my%20discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)
 
+Update: 11.02 kill aura;auto puzle(support seven types)
+
 Features
 
 - **Player:** Movement speed, skill and ultimate cooldown control, god mode, damage multiplier, unlimited stamina, jump adjustment, and free flight.
