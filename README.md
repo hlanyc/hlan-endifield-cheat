@@ -23,8 +23,7 @@
 -  damage multiplier
 -  unlimited stamina
 -  jump adjustment
--  free flight.
--  Zipline speed adjustment
+-  free flight
 
 **World:**
 - Entity markers
@@ -37,6 +36,7 @@
 - auto puzzle
 - kill aura
 - Skip supported dialogue(cutscenes, and videos, adjust playback speed, and advance dialogue automatically)
+- Zipline speed adjustment
 
 **Teleport:**
 - coordinate teleportation
