@@ -24,6 +24,7 @@
 -  unlimited stamina
 -  jump adjustment
 -  free flight.
+-  Zipline speed adjustment
 
 **World:**
 - Entity markers
@@ -37,8 +38,7 @@
 - kill aura
 - Skip supported dialogue(cutscenes, and videos, adjust playback speed, and advance dialogue automatically)
 
-**Travel:**
-- Zipline speed adjustment
+**Teleport:**
 - coordinate teleportation
 - saved locations
 - automatic routes
