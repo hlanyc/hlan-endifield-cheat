@@ -2,15 +2,18 @@
 <img width="1271" height="745" alt="2" src="https://github.com/user-attachments/assets/5a20b5ff-3eb2-4d8a-be92-7de976e07030" />
 
 
+### HOW TO USE?
+- Turn on the launcher and select dx11/vulkan/auto
+- Then click the start
 **Use the INS to open the menu**
 
   [![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20my%20discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)
 
-## Update: 
+### Update: 
 ·11.06 fix some bugs
 ·11.02 kill aura;auto puzle(support seven types)
 
-Features
+## Features
 
 **Player:**
 - Movement speed
