@@ -4,7 +4,7 @@
 
 **Use the INS to open the menu**
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20my%20discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)
+<div class="center">[![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20my%20discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)</div>
 
 Update: 
 ·11.06 fix some bugs
@@ -12,9 +12,38 @@ Update:
 
 Features
 
-- **Player:** Movement speed, skill and ultimate cooldown control, god mode, damage multiplier, unlimited stamina, jump adjustment, and free flight.
-- **World:** Entity markers, automatic pickup, gathering, chest interaction, extended interaction range, enemy attraction, and instant stagger with adjustable range and interval.
-- **Story:** Skip supported dialogue, cutscenes, and videos, adjust playback speed, and advance dialogue automatically.
-- **Travel:** Zipline speed adjustment, coordinate teleportation, saved locations, automatic routes, and quest or chest teleport shortcuts.
-- **Extras:** Character anti-fade, FPS display, and entity debugging tools.
-- **Settings:** English and Chinese interface, saved configurations, and customizable hotkeys.
+- **Player:**
+- Movement speed
+-  skill and ultimate cooldown control
+-  god mode
+-  damage multiplier
+-  unlimited stamina
+-  jump adjustment
+-  free flight.
+-  
+- **World:**
+- Entity markers
+- automatic pickup
+- gathering
+- chest interaction
+- extended interaction range
+- enemy attraction
+- instant stagger with adjustable range and interval
+- auto puzzle
+- kill aura
+- Skip supported dialogue(cutscenes, and videos, adjust playback speed, and advance dialogue automatically)
+- 
+- **Travel:** Zipline speed adjustment
+- coordinate teleportation
+- saved locations
+- automatic routes
+- quest or chest teleport shortcuts.
+- 
+- **Extras:**
+- Character anti-fade
+- FPS display
+- **Settings:**
+- 
+- English and Chinese interface
+- saved configurations
+- customizable hotkeys.
