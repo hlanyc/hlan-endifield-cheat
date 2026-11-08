@@ -4,15 +4,17 @@
 
 **Use the INS to open the menu**
 
-<div class="center">[![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20my%20discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)</div>
+<div class="center">
+  [![Discord](https://img.shields.io/static/v1?label=Discord&message=Join%20my%20discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c7CtjVu46E)
+</div>
 
-Update: 
+##Update: 
 ·11.06 fix some bugs
 ·11.02 kill aura;auto puzle(support seven types)
 
 Features
 
-- **Player:**
+**Player:**
 - Movement speed
 -  skill and ultimate cooldown control
 -  god mode
@@ -20,8 +22,8 @@ Features
 -  unlimited stamina
 -  jump adjustment
 -  free flight.
--  
-- **World:**
+
+**World:**
 - Entity markers
 - automatic pickup
 - gathering
@@ -32,18 +34,19 @@ Features
 - auto puzzle
 - kill aura
 - Skip supported dialogue(cutscenes, and videos, adjust playback speed, and advance dialogue automatically)
-- 
-- **Travel:** Zipline speed adjustment
+
+**Travel:**
+- Zipline speed adjustment
 - coordinate teleportation
 - saved locations
 - automatic routes
 - quest or chest teleport shortcuts.
-- 
-- **Extras:**
+
+**Extras:**
 - Character anti-fade
 - FPS display
-- **Settings:**
-- 
+
+**Settings:**
 - English and Chinese interface
 - saved configurations
 - customizable hotkeys.
